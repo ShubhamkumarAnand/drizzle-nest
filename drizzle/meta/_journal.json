@@ -8,6 +8,13 @@
       "when": 1727112560580,
       "tag": "0000_shocking_jocasta",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1727202322826,
+      "tag": "0001_careful_harpoon",
+      "breakpoints": true
     }
   ]
 }
